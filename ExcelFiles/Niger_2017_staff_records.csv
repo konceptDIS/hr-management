@@ -1,0 +1,409 @@
+SN,username,surname,first_name,middle_name,staff_id,designation,department,unit,area_office,leave_type,gender,leave_allowance,taken,employed_on,contract_staff,region
+1,,DAVE,ODE,ONAH,500318,AREA MANAGER,CS,,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+2,,YAHAYA ,,UMAR,401266,DEPUTY MANAGER,TS,SM (TEC),KONTAGORA,Annual ,Male,30,30,05/01/2014,NO,Niger
+3,,UTHMAN,KOLO,BOKANI,502529,SUPERVISOR (CS),CS,MARKETING,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+4,,NAUZO ,,ABDULLAHI,501299,SUPERVISOR (CS),CS,MARKETING,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+5,,PROSPER,UCHECHUKWU,OGONNA,501335,SUPERVISOR (CS),CS,DEBT MGT.,KONTAGORA,Annual ,Male,30,30,05/01/2014,NO,Niger
+6,,TANIMU ,USMAN,GWADA,501668,SUPERVISOR (CS),CS,MARKETING,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+7,,BAJEHSON ,BASHEL ,MOHAMMED,501314,SUPPERVISOR (CS),CS,MARKETING,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+8,,ABDULLAHI ,LAWAL,BABA,501302,SUPPERVISOR (CS),CS,MARKETING,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+9,,SAMINU ,,MOHAMMED,500471,SUPPERVISOR (CS),CS,MARKETING,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+10,,RASHIDAT ,,ABDULWHEED,501341,SUPPERVISOR (CS),CS,CCU,KONTAGORA,Casual ,Female,30,10,05/01/2014,NO,Niger
+11,,JIBRIN  ,BOKANI,UMAR,401215,SUPPERVISOR (DSO),TS,DSO,KONTAGORA,Annual ,Male,30,30,05/01/2014,NO,Niger
+12,,UMAR,SANDA,ALIYU,300636,FUNCTION OFFICER I (FS),FS,TL REV.,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+13,,OLOFU,,AUGUSTINE,200228,FUNCTION OFFICER I (HR),HR,OFFICE MANAGER,KONTAGORA,Casual ,Male,30,10,05/01/2014,NO,Niger
+14,,MUSILIU ,,JIMOH,501329,FUNCTION OFFICER I (CS),CS,MARKETING,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+15,,MOHAMMED,ILIYA,JIYA,401218,FUNCTION OFFICER I (TS),TS,LINESMEN,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+16,,AHMED  ,BABA,WACHIKO,401269,FUNCTION OFFICER I (TS),TS,LINESMEN,KONTAGORA,Casual ,Male,30,10,05/01/2014,NO,Niger
+17,,MAMMAN,,MAGAJI,401236,FUNCTION OFFICER I (TS),TS,O/C FAULT,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+18,,UMARU ,BOSSO,MAKUN,401227,FUNCTION OFFICER I (TS),TS,LINESMEN,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+19,,MARKUS ,YUSUF,DIKO,501353,FUNCTION OFFICER I (CS),CS,MD,KONTAGORA,,Male,30,,05/01/2014,NO,Niger
+20,,MOHAMMED,MUSA,DOGO,401242,FUNCTION OFFICER I (DSO),TS,DSO,KONTAGORA,Annual ,Male,30,30,05/01/2014,NO,Niger
+21,,MOHAMMED,NDA,SHABA,401248,FUNCTION OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+22,,BARAU ,,MAMMAN,401230,FUNCTION OFFICER II (TS),TS,LINESMEN,KONTAGORA,Annual ,Male,21,21,05/01/2014,NO,Niger
+23,,PATRIC ,,PARKER,501338,FUNCTION OFFICER II (CS),CS,MARKETING,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+24,,MAMMAN ,,IBRAHIM,401209,FUNCTION OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+25,,ISAH ,,YAHAYA,401272,FUNCTION OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+26,,HABIBU ,,MOHAMMED,401206,FUNCTION OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+27,,SALAMATU ,,MOHAMMED,501326,FUNCTION OFFICER II (CS),CS,MARKETING,KONTAGORA,Casual ,Female,21,3,05/01/2014,NO,Niger
+28,,HASSAN ,,MAMMAN,401233,FUNCTION OFFICER II (TS),TS,LINESMEN,KONTAGORA,Annual ,Male,21,21,05/01/2014,NO,Niger
+29,,YUSUF ,GADO,WANDO,401275,FUNCTION OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+30,,ABDULLAHI ,,SAIDU,501305,SUPPORT OFFICER I (CS),CS,MARKETING,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+31,,IBRAHIM ,MOHAMMED,SULEIMAN,300396,SUPPROT OFFICER I (FS),FS,CASHIER,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+32,,AKABA ,MOMOH,EBUNU,300390,SUPPROT OFFICER I (FS),FS,CASHIER,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+33,,MOHAMMED ,,YABAGI,200240,SUPPORT OFFICER I (HR),HR,MARKETING,KONTAGORA,Annual ,Male,21,21,05/01/2014,NO,Niger
+34,,ABUBAKAR ,,AHMED,300384,SUPPORT OFFICER I (FS),FS,CASHIER,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+35,,HUSSAINI ,,SAMAILA,401257,SUPPORT OFFICER I (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+36,,IDRIS ,,MOHAMMED,401212,SUPPORT OFFICER I (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+37,,MOHAMMED ,ABUBAKAR,SANI,401239,SUPPORT OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+38,,MOHAMMED ,OLUWASINA,GBADAMOSI,401245,SUPPROT OFFICER I (TS),TS,NEW SERVICE,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+39,,ABDULSALAM,ALHAJI,ABUBAKAR,300096,SUPPORT OFFICER I (FS),FS,CLEARING CASHIER ,KONTAGORA,Casual ,Male,21,15,05/01/2014,NO,Niger
+40,,BALA ,,ALFA,401200,SUPPORT OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+41,,SANI ,RABIU,ABDULLAHI,300408,SUPPORT OFFICER II (FS),FS,CASHIER,KONTAGORA,Casual ,Male,21,5,05/01/2014,NO,Niger
+42,,SOLOMON ,YABAGI,MUSA,200249,SUPPORT OFFICER II (SEC),HR,HR,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+43,,SAMUEL ,,IKO,401260,SUPPORT OFFICER II (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+44,,SANI ,ABUBAKAR,GARBA,501344,SUPPORT OFFICER II (CS),CS,MARKETING,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+45,,MOSES,UCHENNA,OGWUOKE,980141,SUPPORT OFFICER I (DSO),TS,DSO,KONTAGORA,,Male,21,,08/06/2015,NO,Niger
+46,,USMAN,MOHAMMED,NJAGOLA,980231,SUPPORT OFFICER I (DSO),TS,DSO,KONTAGORA,,Male,21,,08/06/2015,NO,Niger
+47,,KABIRU,,YAHAYA,980501,SUPPORT OFFICER I (TS),TS,LINESMEN,KONTAGORA,,Male,21,,18/01/2016,NO,Niger
+48,,AUDI,,BALA,500402,SUPPORT OFFICER II (CS),CS,MARKETING,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+49,,BABANAKASHI,,MUSA,400465,SUPPORT OFFICER I (TS),TS,LINESMEN,KONTAGORA,,Male,21,,05/01/2014,NO,Niger
+50,,MOHAMMED,LEMU,ABUBAKAR,228,SUPPORT OFFICER I (TS),TS,LINESMEN,KONTAGORA,,Male,21,,15/08/2016,NO,Niger
+51,,UMARU ,ADAMU,MOHAMMED,237,SUPPORT OFFICER I (TS),TS,MARKETING,KONTAGORA,,Male,21,,15/08/2016,NO,Niger
+52,,MOHAMMED,AHMED,MASABA,246,SUPPORT OFFICER I (FS),FS,CASHIER,KONTAGORA,,Male,21,,29/11/2016,NO,Niger
+53,,ABDULLAHI ,NDAGABA,ETSU,96,SUPPORT OFFICER I (FS),FS,CASHIER,KONTAGORA,Casual,Male,21,15,29/11/2016,NO,Niger
+54,,AUDU,JOHN,LAMBERT,300993,SUPPORT OFFICER I (FS),FS,CASHIER,KONTAGORA,Casual,Male,21,5,29/11/2016,NO,Niger
+55,,DAVID ,ILIMONA,ALI ,300987,SUPPORT OFFICER I (FS),FS,CASHIER,KONTAGORA,Casual,Male,21,10,29/11/2016,NO,Niger
+1,, ELESA ,YAKUBU,ADAMU,402103,DEPUTY MANGER  (E),Technical  Services,AREA MANAGER,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+2,,ABDUL,ISAH,,603893,Ag. S.M MARKETING ,Customer Services,Ag. SENIOR MANAGER(CS),BOSSO ,Annual,Male,30,5,01/05/2014,No,Niger
+3,,MOHAMMED ,YUSUF,,400462,DEPUTY MANAGER  (E),Technical  Services,MANAGER(TS),BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+4,,PATRICK ,UWEMEDIMO,INYANG,300138,SUPERVISOR MARKETING,FINANCIAL ACCOUNT, STORES&CURRENT ACCNT,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+5,,ABDULLAHI  MRS.,ASMA'U,,502127,SUPERVISOR MARKETING,Customer Services,(KPI ) CUSTOMER SERVICE,BOSSO ,Annual,Female,30,30,01/05/2014,No,Niger
+6,,RAHEEM  MRS.,SHEKINAT,OLAITAN,500465,SUPERVISOR MARKETING,Customer Services,  SERVICE CENTER MANAGER,BOSSO ,Annual,Female,30,30,01/05/2014,No,Niger
+7,,NEMI ,ABUBAKAR,,500447,SUPERVISOR MARKETING ,Customer Services,SERVICE CENTRE MANAGER,BOSSO ,Annual,Male,30,20,01/05/2014,No,Niger
+8,,KOKORI  MRS,BILIKISU,MOSHOOD,500426,SUPERVISOR MARKETING,Customer Services,NEW SERVICE/INVESTIGATION,BOSSO ,Annual,Female,30,30,01/05/2014,No,Niger
+9,,ZUBAIRU ,SANTALI,ALIYU,400492,SUPERVISOR (L),Customer Services,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+10,,ABU ,SARKI,DAJI,403222,SUPERVISOR (L),Customer Services,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,0,01/05/2014,No,Niger
+11,,NDAYAKO,MOHAMMED,BAGUDU,200150,SUPERVISOR (HR),Officer I/HR,TEAM MEMBER (HR),BOSSO ,Annual,Male,30,20,01/05/2014,No,Niger
+12,,SEGUN ,EMMANUEL,ADEYEMI,500393,SUPERVISOR MARKETING,Customer Services,BOSSO S/C  MKTING MGR.,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+13,,ODUMOGWU ,VICTOR,GABRIEL,500450,SUPERVISOR MARKETING,Customer Services,MAIKUNKELE S/C MKTING MGR,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+14,,HARUNA,MAMZA,JASINI,500423,SUPERVISOR MARKETING,Customer Services, M.D UNIT,BOSSO ,Annual,Male,30,21,01/05/2014,No,Niger
+15,,FRANK ,NWABUDE,ONOI,500945,SUPERVISOR MARKETING,Customer Services, BOSSO III S/C MKTING MGR.,BOSSO ,Annual,Male,30,20,01/05/2014,No,Niger
+16,,SALINA ,DAYE,KOBO,500468,SUPERVISOR MARKETING,Customer Services, BARIKIN SALE S/C MKTING MGR,BOSSO ,Annual,Female,30,3,01/05/2014,No,Niger
+17,,NCHOM ,BIYA,STEPHEN,500405,SUPERVISOR MARKETING,Customer Services, BOSSO II S/C MKKTING MGR.,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+18,,OWUDA ,ALIYU,IDRIS,500462,SUPERVISOR MARKETING,Customer Services,KPAKUNGU S/C MKTING MGR.,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+19,,MATHEW ,CLETUS,UMOH,500474,SUPERVISOR MARKETING,Customer Services,GRA II S/C MKTING MGR.,BOSSO ,Annual,Male,30,10,01/05/2014,No,Niger
+20,,OGAR ,SUNDAY,ALOBO,500453,SUPERVISOR (MARKETING), Customer Services,M.D UNIT,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+21,,ADAMU ,ISMAILA,,400435,SUPERVISOR ELECTRICAL,Technical  Services,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+22,,BUHARI ,NDA'ABA,,500342,SUPERVISOR (BILLING),COMPUTER,BILLING OPERATIONS,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+23,,ABUBAKAR ,MOHAMMED,,502136,SUPERVISOR (BILLING),COMPUTER,BILLING OPERATIONS,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+24,,ABUBAKAR ,MARIAM,,502133,SUPERVISOR (BILLING),COMPUTER,BILLING OPERATIONS,BOSSO ,Annual,Female,30,5,01/05/2014,No,Niger
+25,,EKIRIGWE ,FLORENCE,OTELAHU,300639,SUPERVISOR  (ACCOUNTS),FINANCIAL ACCOUNT,TEAM LEAD (F & A).,BOSSO ,Annual,Female,30,14,01/05/2014,No,Niger
+26,,ZUBAIRU ,EMIYETI,,400489,FUNCTION OFFICE R I (L),Technical  Services,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+27,,ABDULMALIK ,MOHAMMED,,400432,FUNCTION OFFICER  I (L),Technical  Services,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+28,,MOHAMMED ,UMAR,DABAI,400480,FUNCTION OFFICER I (D S O),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+29,,ABDULLAHI ,JIBO,,400429,FUNCTION OFFICER   I  (L) ,TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+30,,TSADO ,SERAH,KASHI,300153,FUNCTION OFFICER. I (ACCTS),FINANCIAL ACCOUNT,SENIOR CASHIER,BOSSO ,Annual,Female,30,15,01/05/2014,No,Niger
+31,,MUSA ,YUSUF,ALHAJI,501950,FUNTION OFFICER I (MKT),Customer Services,ZUNGERU,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+32,,SAMUEL ,SUNDAY,HEZEKIAH,402349,FUNTION OFFICER I (MKT),Technical  Services,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+33,,TIGGA ,BABA,ALI,400477,FUNCTION OFFICER I (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+34,,AUSTINE ,AKHIRA,AJAYE,300099,FUNCTION OFFR. I (ACCTS),FINANCIAL ACCOUNT,PREPARATIOS OF 249&BTR,BOSSO ,Annual,Male,30,15,01/05/2014,No,Niger
+35,,PYATA ,SAMUEL,BAIZEGI,300150,FUNCTION OFFICER I (F&A),FINANCIAL ACCOUNT,FINAL ACCOUNTS,BOSSO ,Annual,Male,30,15,01/05/2014,No,Niger
+36,,IBRAHIM ,YAHAYA,MAIGIWA,500411,FUNTION OFFICER I (MKT),Customer Services,DUTSEN KURA I S/C MKTING MGR,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+37,,GARBA ,ABDULLAHI,,400453,FUNCTION OFFICER. I (L),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+38,,KOJE ,SAMUEL,,300855,FUNCTIONAL OFFICER I CASHIER (PRE -PAY- M),FINANCIAL ACCOUNT,CASHIER,BOSSO ,Annual,Male,30,,07/09/2016,No,Niger
+39,,MATHEW ,OBIDAH,,110060,FUNCTION OFFICER. I (L),HR,SECURITY,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+40,,UMARU ,MUSA,AISHA,300159,FUNCTION OFFICER. I (ACCT),FINANCIAL ACCOUNT,CASHIER,BOSSO ,Annual,Female,30,30,01/05/2014,No,Niger
+41,,TANKO ,DANJUMA,MOHAMMED,500408,FUNTION OFFICER I (MKT),Customer Services,MAIKUNKELE  II MKTING MGR,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+42,,CHARLES,IJI,OGBU,500414,FUNCTION OFFR. I (MKT),Customer Services,GRA III S/C MKTING SUPERVISOR,BOSSO ,Annual,Male,30,,01/05/2014,No,Niger
+43,,GODWIN ,MADUABUCHI,ENEH,980153,FUNCTION OFFR II (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,06/08/2015,No,Niger
+44,,EMEKA ,ALBERT,NWOKE,980105,FUNCTION OFFR II (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,06/08/2015,No,Niger
+45,,AISHAT ,MOHAMMED,,200339,FUNCTION OFFR. II (HR),Human Resources, RECORDS&ADMIN.,BOSSO ,Annual,Female,21,,01/05/2014,No,Niger
+46,,NWOSU ,PETER,,300147,FUNCTION OFFICER II (ACCT),FINANCIAL ACCOUNT,CASHIER,BOSSO ,Annual,Male,30,30,01/05/2014,No,Niger
+47,,SULEIMAN ,MAIBEZA,,400474,FUNCTION OFFR. II (DSO),TS, OPERATION/MAINTAINANCE,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+48,,MOHAMMED ,DANGANA,,400447,FUNCTION OFFR. II (L),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,01/05/2014,No,Niger
+49,,ZARUMAI ,YERIMA,,400486,FUNCTION OFFR.II (L),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+50,,YUSUF ,UMAR,BABA,400483,FUNCTION OFFR. II (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+51,,MOHAMMED ,ISAH,,500438,FUNCTION OFFR. II (MKT),Customer Services,Dutsen - Kura V Marketer.,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+52,,ABDULMUMIN ,AMINU,,500390,FUNCTION OFFR. II (L),TS, OPERATION/MAINTAINANCE,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+53,,AHMADU ,GARBA,,400438,FUNCTION OFFR. II (L),TS, OPERATION/MAINTAINANCE,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+54,,OLAJIDE ,PETER,,980663,FUNCTION OFFR. II (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,22/01/2015,No,Niger
+55,,FATUKI ,OLUGBENGA,KOLA,980690,FUNCTION OFFR. II (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,01/01/2015,No,Niger
+56,,ONWUKA ,KINGSLEY,ODULI,980669,FUNCTION OFFR. II (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,30,30,01/01/2015,No,Niger
+57,,AMADI ,NNAEMEKA,ONYEKACHI,502793,FUNCTION OFFR. II (METER/ ENGR.) ,Customer Services,Meter Engr.,BOSSO ,Annual,Male,21,,08/12/2015,No,Niger
+58,,MRS. SALAMI ,RAKIYA,OHUNENE,99,FUNCTION OFFR. II CASHIER,FINANCIAL ACCOUNT,CASHIER,BOSSO ,Annual,Female,21,,15/04/2015,No,Niger
+59,,JIBRIL ,GUNU,SHUAIBU,300141,SUPPORT OFFR. I (ACCTS),FINANCIAL ACCOUNT, CASHIER,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+60,, CHRISTIAN ,KAYODE,OSONAMEH,980657,SUPPORT OFFR. I (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,01/01/2015,No,Niger
+61,,JACOB ,ADERELE,ODERINDE,980291,SUPPORT OFFR.I (DSO),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,06/08/2015,No,Niger
+62,,AMOS,DANLADI,,401989,SUPPORT OFFR. I (L),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,01/05/2014,No,Niger
+63,,ABDULKARIM ,MUSA,,500387,SUPPORT OFFR. I (MKT),Customer Services, BARIKIN SALE II S/C MARKETER,BOSSO ,Annual,Male,21,,01/05/2014,No,Niger
+64,,IBRAHIM ,MOHAMMED,,400459,SUPPORT OFFR. I (L),TS,  OPERATIONS & MAINTAINANCE,BOSSO ,Annual,Male,21,,01/05/2014,No,Niger
+65,,AL-HASSAN ,NDABARU,ABDULLAHI,400441,SUPPORT OFFR. I (PC&M),TS,PLANNING &CONSTRUCTION,BOSSO ,Annual,Male,21,3,01/05/2014,No,Niger
+66,,ALIYU ,NUHU,MANTA,500399,SUPPORT OFFR.  I (MKT),Customer Services, WUSHISHI S/C MARKETER,BOSSO ,Annual,Male,21,,01/05/2014,No,Niger
+67,,MOH'D ,BELLO,UMAR,500435,SUPPORT OFFR.I (MKT),Customer Services,  KPAKUNGU III S/C MARKETER,BOSSO ,Annual,Male,21,,01/05/2014,No,Niger
+68,,YUSUF ,SALIHU,IBRAHIM,500477,SUPPORT OFFR. I (MKT),Customer Services, KPAKUNGU II S/C MARKETER,BOSSO ,Annual,Male,21,,01/05/2014,No,Niger
+69,,BALA ,ALIYU,USMAN,401986,SUPPORT OFFR. I (L),TS,DUTSENKURA/GRA II S/C,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+70,,MOHAMMED ,MOHAMMED,CHAANCHAGA,400444,SUPPORT OFFR.  II (L),TS, OPERATION&MAINTAINANCE,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+71,,DANTANI ,MUSA,USHAFA,400450,SUPPORT OFFR. II (L),TS, OPERATIONS&MAINTAINANCE,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+72,,HASSAN,ABUBAKAR,,400456,SUPPORT OFFR.  II (L),TS, OPERATION &MAINTAINANCE,BOSSO ,Annual,Male,21,21,01/05/2014,No,Niger
+73,,IDRIS ,LAWAL,IMAM,980675, SUPPORT OFFR. I (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual, MALE,21,,16/10/2014,No,Niger
+74,,LIMAN ,ADAMU,,980624,SUPPORT OFFR. I (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,16/10/2014,No,Niger
+75,,MOHAMMMED ,SANI,,78,SUPPORT OFFR. I (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,15/04/2015,No,Niger
+76,,BALA ,ALIYU,,72,SUPPORT OFFR. I (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,15/04/2015,No,Niger
+77,,IBRAHIM ,HARUNA,,480,SUPPORT OFFR. I (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,21,11/06/2015,No,Niger
+78,, MOHAMMED ,IBRAHIM,,402598,SUPPORT OFFR. I (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,21,,04/11/2016,No,Niger
+79,,ALIYU ,TANKO,,582,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MANAGER,BOSSO ,Annual,Male,Nil,N/A,20/01/2015,No,Niger
+80,,SALIHU ,ABUBAKAR,BABANGIDA,591,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Male,Nil,N/A,20/01/2015,No,Niger
+81,,MUSA ,JIBRIN,BABA,588,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Male,Nil,N/A,20/01/2015,No,Niger
+82,,USMAN ,GBANGBA,UMAR,585,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Male,Nil,N/A,20/01/2015,No,Niger
+83,,HABIBA,ALFA,,84,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Female,Nil,N/A,20/01/2015,No,Niger
+84,,GODWIN ,CASSIDY,,93,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Male,Nil,N/A,15/04/2015,No,Niger
+85,,ABUBAKAR ,MUSA,,81,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Male,Nil,N/A,15/04/2015,No,Niger
+86,,EMMANUEL ,BESSE,,90,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Male,Nil,N/A,15/04/2015,No,Niger
+87,,USMAN ,NMA,,87,CONTRACT (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,Nil,N/A,15/04/2015,No,Niger
+88,,ISAH ,ALIYU,,75,CONTRACT (LINESMEN),TS,OPERATION/MAINTAINANCE.,BOSSO ,Annual,Male,Nil,N/A,15/04/2015,No,Niger
+89,,ALABI ,MOSES,TEMITAYO,1287,CONTRACT (MARKETER),Customer Services,SERVICE CENTRE MARKETER,BOSSO ,Annual,Male,Nil,N/A,08/06/2016,No,Niger
+1,,Mohammed,Yazid,Abdulsalam,980243,Function Officer II (DSO),TECHNICAL SERVICES,DSO,SULEJA,Annual,Male,21,21,17/07/2014,No,Niger
+2,,Aliyu,Ibrahim,,402193,Function Officer III (Linesman),TECHNICAL SERVICES,Linesman,SULEJA,Annual,Male,21,21,01/05/2014,No,Niger
+3,,Jiya,Mlohammed,,402217,Function Officer I (Electrical Filter),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,30,01/05/2014,No,Niger
+4,,Fogbe,Abdulrahman,,402229,Function Officer II (Service Engr),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,15,01/05/2014,No,Niger
+5,,Ahmed ,Mustapha,Baba,980387,Team Lead (Technical Services),TECHNICAL SERVICES,TECHNICAL SERVICES,SULEJA,Annual,Male,30,10,01/05/2015,No,Niger
+6,,Ibrahim,Safiyat,Maigiwa,200369,Team Lead (HR & CS),HR & CS,HR & CS,SULEJA,Annual,Female,21,10,01/05/2014,No,Niger
+7,,Duru,Ethel,Amaechi,300732,Supervisor (F/A),Finance & Account,Finance & Account,SULEJA,Annual,Female,30,15,01/05/2014,No,Niger
+8,,Onoja,Ben,,980180,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,30,17/07/2014,No,Niger
+9,,Sani,Umar,Agbo,980012,Function Officer II (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,21,17/07/2014,No,Niger
+10,,Ayuba,Richard,,400354,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,30,01/05/2015,No,Niger
+11,,Apata,Elizabeth,Bolatito,502418,Supervisor (CS),COMMERCIAL SERVICES,Customer Care,SULEJA,Annual,Female,30,19,01/05/2014,No,Niger
+12,,Ajibade,Vanessa,Omolola,502508,Supervisor (CS),COMMERCIAL SERVICES,PPM,SULEJA,Annual,Female,30,21,01/05/2014,No,Niger
+13,,Nasiru,Tukur ,Ahmad,502409,Support Officer I (CS),COMMERCIAL SERVICES,Marketer,SULEJA,Annual,Male,21,21,01/05/2014,No,Niger
+14,,Okeke,Innocent,Maduabuchi,5022445,Manager  (CS),COMMERCIAL SERVICES,Non - MD Manager,SULEJA,Annual,Male,30,30,01/05/2014,No,Niger
+15,,Mohammed,Umar,,402595,Support Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,10,11/11/2016,No,Niger
+16,,Abalaka,Amana,,402178,Function Officer II (Service Engineer),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,12,01/05/2014,No,Niger
+17,,Mahmud,Abdulateef,Aminat,402220,Function Officer I (PC & M),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,30,01/05/2014,No,Niger
+18,,Ishola ,Jelilat,,465,Function Officer III (Cashier),Finance & Account,Cashier,SULEJA,Materinity,Male,21,112,29/11/2016,No,Niger
+19,,Dabaje,Tengwong,Sunday,110123,Support Officer I (risk/Comp.),Risk/Compliance,Security,SULEJA,Annual,Male,21,5,01/05/2014,No,Niger
+20,,Nnadi,Victoria,,300945,Function Officer I (F/A),Finance & Account,Cashier,SULEJA,Annual,Female,30,18,29/11/2016,No,Niger
+21,,Dodo,Ladi,,980252,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Female,30,15,30/06/2014,No,Niger
+22,,Ihedioha,Udodiri,,402214,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,10,02/05/2014,No,Niger
+23,,Apine,Gilbert,,402196,Support Officer I (Dispatch),TECHNICAL SERVICES,Dispatch,SULEJA,Annual,Male,21,10,24/02/2014,No,Niger
+24,,Shebe,Pada,,502514,Function Officer I (CS),COMMERCIAL SERVICES,Service center Manager,SULEJA,Annual,Male,30,3,01/05/2014,No,Niger
+25,,Mohammed,Wakili,Abubakar,471,Support Officer III(Service Engr),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,21,15/04/2015,No,Niger
+26,,Ibrahim ,Yusuf,,402211,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,30,01/05/2014,No,Niger
+27,,Apulonu,Goodluck,Chimereucheya ,502412,Support Officer I (CS),COMMERCIAL SERVICES,Service Center  Manger,SULEJA,Annual,Male,21,21,18/04/2014,No,Niger
+28,,Abdulkarim,Mohammed,Nda,502466,Function Officer III (CS),COMMERCIAL SERVICES,New Service,SULEJA,Annual,Male,21,3,01/05/2014,No,Niger
+29,,Nchekwube,Patricia,Ifeatu,500444,Supervisor (CS),COMMERCIAL SERVICES,New Service Manager,SULEJA,Annual,Female,30,17,01/05/2014,No,Niger
+30,,Salami,Bolatito,Salami,300930,Function Officer I (F/A),Finance & Account,Cashier,SULEJA,Annual,Female,30,5,29/11/2016,No,Niger
+31,,odo,Mary,Ngozi,502490,Function Officer I (CS),COMMERCIAL SERVICES,Computer Manager,SULEJA,Annual,Female,30,30,01/05/2014,No,Niger
+32,,Shehu,Usman,Shuaibu,502526,Support Officer II (CS),COMMERCIAL SERVICES,Service Center Manager,SULEJA,Annual,Male,21,10,24/02/2014,No,Niger
+33,,Baro,Ahmad,Shehu,500543,Head/Reg Manager,TECHNICAL SERVICES,Area Manager,SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+34,,Idris,Rabiu,Abubakar,400471,Supervisor (TS),TECHNICAL SERVICES,Team Lead (TS),SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+35,,Maikano,Alhassan,Keita,501269,Deputy Head (CS),COMMERCIAL SERVICES,Team Lead (CS),SULEJA,Annual,Female,30,0,01/05/2014,No,Niger
+36,,Abdullahi,Buhari,,502451,Supervisor (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+37,,Jibrin,Adams,,502508,Supervisor (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+38,,During,Winifred,Obiageli,501317,Supervisor (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Female,30,30,01/05/2014,No,Niger
+39,,Carol,Egbuna,,,Supervisor (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Female,30,0,01/05/2014,No,Niger
+40,,Onyekwelu,Stella,Ujunwa,200387,Supervisor (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Female,30,0,01/05/2014,No,Niger
+41,,Aina,Victor,Olufemi,500765,Supervisor (CS),COMMERCIAL SERVICES,Billing,SULEJA,Annual,Male,30,30,01/05/2014,No,Niger
+42,,Chukwuma,Francis,Emeka,500315,Supervisor (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+43,,Mohammed,Abubakar,Ballam,502469,Supervisor (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+44,,Anie,Katherine,,502154,Supervisor (CS),COMMERCIAL SERVICES,COMMERCIAL SERVICES,SULEJA,Annual,Female,30,,01/05/2014,No,Niger
+45,,Timi,Joseph,,502035,Supervisor (CS),COMMERCIAL SERVICES,COMMERCIAL SERVICES,SULEJA,Annual,Male,30,,01/05/2014,No,Niger
+46,,Fajobi,Olubunmi,Tokunbo,940033,Supervisor (F/A),Finance & Account,Cashier,SULEJA,Annual,Female,30,0,01/05/2014,No,Niger
+47,,Ochimana,Friday,,300747,Function Officer I (F/A),Finance & Account,Cashier,SULEJA,Annual,Male,30,10,01/05/2014,No,Niger
+48,,Faloye,Emmanuel,Oluwarotimi,300903,Function Officer I (F/A),Finance & Account,Cashier,SULEJA,Annual,Male,30,0,29/11/2016,No,Niger
+49,,Husseini,Mohammed,,402223,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,30,01/05/2014,No,Niger
+50,,Erena,Joseph,Dauda,502457,Function Officer I (CS),COMMERCIAL SERVICES,MD Marketer,SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+51,,Musa,Musa,,502484,Function Officer I (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Male,30,0,01/05/2014,No,Niger
+52,,Ogbuji,Jonathan,,980054,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,0,17/07/2014,No,Niger
+53,,Uduimoh,Godson,Moses,980681,Function Officer I (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,30,0,17/07/2014,No,Niger
+54,,Mohammed ,Tanko,,980393,Function Officer  II (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+55,,Ochuibo,Dickson,,501830,Function Officer II (CS),COMMERCIAL SERVICES,Billing,SULEJA,Annual,Male,21,21,01/05/2014,No,Niger
+56,,Ndafogi,Tauheed,,402061,Function Officer II (linesman),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,,01/05/2014,No,Niger
+57,,Al-Hassan ,Sanusi,,401983,Function Officer II (linesman),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,,01/05/2014,No,Niger
+58,,Mohammed,Musa,Alhaji,502481,Function Officer II (CS),COMMERCIAL SERVICES,Marketer,SULEJA,Annual,Male,21,0,07/05/2014,No,Niger
+59,,Isa,Hauwa,Alushi,300468,Function Officer III (F/A),Finance & Account,Cashier,SULEJA,Annual,Female,21,0,01/05/2014,No,Niger
+60,,Oriade,Hezekiah,Omoniyi,300948,Function Officer III (F/A),Finance & Account,Cashier,SULEJA,Annual,Male,21,0,29/11/2016,No,Niger
+61,,Musa,Rafatu,Abdulrahim,300924,Function Officer III (F/A),Finance & Account,Cashier,SULEJA,Annual,Female,21,21,29/11/2016,No,Niger
+62,,Musibau,Mohammed,Musa,300744,Function Officer III (CS),COMMERCIAL SERVICES,Marketer,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+63,,Aliu,Asakhameh,Jude,980651,Function Officer III (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+64,,Ogbemudia,Michael,Asemota,980654,Function Officer III (DSO),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+65,,Rabiu,Bello,Mohammed,402199,Function Officer III (Linesman),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,5,01/05/2014,No,Niger
+66,,Okehi,Rabiat,Musa,502487,Function Officer III (CS),COMMERCIAL SERVICES,Marketer,SULEJA,Annual,Female,21,0,01/05/2014,No,Niger
+67,,Adagwu,Lucy,Abahi,930081,Function Officer III (CS),COMMERCIAL SERVICES,Computer,SULEJA,Annual,Female,21,21,11/06/2015,No,Niger
+68,,Yahaya,Mohammed,Abdullahi,402184,Function Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+69,,Orimogunge,Samuel,,501107,Support Officer I (TS),TECHNICAL SERVICES,Dispatch,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+70,,Ellah,Ojoye,Stephen,483,SUPPORT OFFICER I (LINESMAN),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,22/08/2016,No,Niger
+71,,Daniel,Jonah,,300726,Support Officer II (F/A),Finance & Account,Cashier,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+72,,Joshua,Rabi,,300738,Support Officer II (F/A),Finance & Account,Cashier,SULEJA,Annual,Female,21,0,01/05/2014,No,Niger
+73,,James,Joseph,Naira,502460,Support Officer II (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+74,,Danlami,Garba,,402208,Support Officer II (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+75,,Odeme,Angela,Ngozi,200378,Support Officer II (CS),COMMERCIAL SERVICES,Service center manager,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+76,,Salisu,Ibrahim,Abigis,402187,Support Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,21,01/05/2014,No,Niger
+77,,Umar,Abdullahi,,980384,Support Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,01/05/2014,No,Niger
+78,,Abdulrahman,Sadiq,,980609,Support Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,31/10/2014,No,Niger
+79,,Angulu,Daniel,Diko,453,Support Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,15/04/2015,No,Niger
+80,,Muhammed,Hamza,,477,Support Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,0,15/04/2015,,Niger
+81,,Umar,Nurudeen,Azegbobor,402544,Support Officer III (TS),TECHNICAL SERVICES,Operation & Maintenance,SULEJA,Annual,Male,21,7,11/11/2016,No,Niger
+1,,Mohammed,Buba ,Putuk,401095,Deputy Head CS,Commerical Service ,Area Manager ,Bida ,Annual,Male,30,30,05/01/2014,NO,Niger
+2,,Abdulganiyu ,Suleiman,,501347,"Ag, SM CS",Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+3,,Musa ,Bello,Alhaji,500346,Deputy Manager CS,Commerical Service ,HR,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+4,,Yakubu ,Umaru,Bucha,500381,Supervisor CS,Commerical Service ,HR,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+5,,Agabi ,Innocent,,700280,Supervisor CS,Commerical Service ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+6,,Yandalu,Bazhima,,500303,Supervisor CS,Commerical Service ,TS,Bida ,Annual,Male,30,30,05/01/2014,NO,Niger
+7,,Oni,Olukayode,,500357,Supervisor CS,Commerical Service ,F&A,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+8,,Yunusa ,Bello,,500309,Supervisor CS,Commerical Service ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+9,,Amene,Jane,Favour,500297,Supervisor CS,Commerical Service ,TS,Bida ,Annual,Female,30,,05/01/2014,NO,Niger
+10,,Ewurum,Donald,,574931,Supervisor CS,Commerical Service ,F&A,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+11,,Usman,Taka,Mohammed,200129,Team Lead HR,Human Resources,TS,Bida ,Annual,Male,30,30,05/01/2014,NO,Niger
+12,,Mohammed,Usman,Nma,400411,Supervisor TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+13,,Adogu,Unwaha,Otori,500372,Supervisor CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+14,,Adama ,Issac,,400336,Supervisor TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+15,,Sanda,Sani,Gambo,500363,FOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+16,,Danbaba,Joseph,,400387,FOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+17,,Alhassan,Hussaini,Alhaji,398398,FOI TS,Technical services ,TS,Bida ,Annual,Male,30,14,05/01/2014,NO,Niger
+18,,Usman,Ahmed,,400345,FOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+19,,Olubiyo,Christopher,Ayodele,300129,Team Lead F&A,Financial Services ,F&A,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+20,,Abdulrahman ,Ibrahim ,Ahmed,300864,FO2 Accts,Financial Services ,F&A,Bida ,Annual,Male,30,,24/08/2016,NO,Niger
+21,,Adebayo ,Bolorunduro,,300870,FO2 Accts,Financial Services ,F&A,Bida ,Annual,Male,30,,21/08/2016,NO,Niger
+22,,Nkwocha,Chizoba,Theresa,300667,FO2 Accts,Financial Services ,F&A,Bida ,Annual,Female,30,15,21/08/2016,NO,Niger
+23,,Simon,Joshua,,300918,FO2 Accts,Financial Services ,F&A,Bida ,Annual,Male,30,,29/11/2016,NO,Niger
+24,,Musa ,Yaya,Aliyu,300102,FOI Accts,Financial Services ,F&A,Bida ,Annual,Male,30,15,05/01/2014,NO,Niger
+25,,Usman,Ndaman,Ndabida,400417,SM D,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+26,,David,Samson,,500321,FOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+27,,Abubakar,Mohammed,,400324,FOI DSO,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+28,,Gana,Jacob,,400369,FOI DSO,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+29,,Abdulkadir ,Salihu,,980114,FO2 TS,Technical services ,TS,Bida ,Annual,Male,30,,08/06/2015,NO,Niger
+30,,Jimma,Mohammed,Ndako,400384,FO2 TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+31,,Ahmed ,Alfa,,557368,FO2 TS,Technical services ,TS,Bida ,Annual,Male,30,30,05/01/2014,NO,Niger
+32,,Aliyu,Isah,,400348,FO2 TS,Technical services ,TS,Bida ,Annual,Male,30,30,05/01/2014,NO,Niger
+33,,Mohammed,Patigi,Alhaji,200126,FO2 HR,Human Resources,HR,Bida ,Annual,Male,30,30,05/01/2014,NO,Niger
+34,,Wokili,Usman,,400420,FO2 TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+35,,Ndayako,Hannatu,,500345,FO2 CS,Commerical Service ,CS,Bida ,Annual,Female,30,,05/01/2014,NO,Niger
+36,,Farook ,Umar,Mohammed,300156,FO2 Accts,Financial Services ,F&A,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+37,,Ibrahim ,Alh. ,Aliyu,501799,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+38,,Abba ,Abubakar,Balarabe,500276,FO2 Billing,Billing ,Billing,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+39,,Tybo,Usman,Ahmed,400414,FO2 TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+40,,Joshua,Solomon,,400390,FO2 TS,Technical services ,TS,Bida ,Annual,Male,30,30,05/01/2014,NO,Niger
+41,,Danasabe,Tunu,Nyido,980201,SOI DSO,Technical services ,TS,Bida ,Annual,Male,30,,07/02/2014,NO,Niger
+42,,Liman,Ndabagi,,400396,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+43,,Mohammed,Abubakar,Nma,763756,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+44,,Gimba,Danladi,,400375,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+45,,Yanda ,Salihu,Kasimu,400423,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+46,,Hussaini ,Mohammed,,400381,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+47,,Mohammed,Shehu,Mohammed,400402,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+48,,Mohammed,Umar,Alhaji,400408,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+49,,Abubakar,Musa,Aliyu,400330,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+50,,Mohammed,Shuaibu,,400405,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+51,,Abubakar,Suleiman,,400333,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+52,,Abdullahi,Abdurahaman,,500279,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+53,,Wokili,Yahaya,,500378,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+54,,Abdullahi,Ahmed,Ndagi,818839,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+55,,Musa ,Mohammed,,500336,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+56,,Kudu ,Usman,Mohammed,400393,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+57,,Audu,Baba,Alhaji,400351,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+58,,Adeniyi,Sunday,,818832,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+59,,Abubakar,Yahaya,,500285,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+60,,Aliyu,Maman,Saba,500294,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+61,,Sheik,Hussaini,,818790,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,15,05/01/2014,NO,Niger
+62,,Suleiman,Bala,,500369,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+63,,Hassan,Attahiru,Mohammed,300105,SOI Accts,Financial Services ,F&A,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+64,,Mohammed,Mahmud,Abdulmalik,69,SOI Accts,Financial Services ,F&A,Bida ,Annual,Male,30,,29/11/2016,NO,Niger
+65,,Olabode,Folake,A,300963,SOI Accts,Financial Services ,F&A,Bida ,Annual,Female,30,,29/11/2016,NO,Niger
+66,,Ayuba,Abdurahaman,,400321,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+67,,Musa ,Zakari,,500339,SOI CS,Commerical Service ,CS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+68,,Bake,Hussaini,Audu,400360,SO2 TS,Technical services ,TS,Bida ,Annual,Male,21,,05/01/2014,NO,Niger
+69,,Adamu,Umaru,,400339,SO2 TS,Technical services ,TS,Bida ,Annual,Male,21,,05/01/2014,NO,Niger
+70,,Ibrahim,Zanchita,,400426,SO2 TS,Technical services ,TS,Bida ,Annual,Male,21,,05/01/2014,NO,Niger
+71,,Ado ,Mohammed,,980561,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,11/01/2014,NO,Niger
+72,,Usman,Aliyu,,980558,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,11/01/2014,NO,Niger
+73,,Usman,Haruna,,980633,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,24/11/2014,NO,Niger
+74,,Mohammed,Garba,,400399,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,05/01/2014,NO,Niger
+75,,Abubakar,Salihu,,57,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,17/04/2015,NO,Niger
+76,,Usman,Mohammed,,67,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,17/04/2015,NO,Niger
+77,,Ahmed ,Zakari,Kabiru,60,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,17/04/2015,NO,Niger
+78,,Mohammed ,Sani,Mohammed,402634,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,21/11/2016,NO,Niger
+79,,Umar,Mohammed,Atsu,402661,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,21/11/2016,NO,Niger
+80,,Suleiman,Usman,,402697,SOI TS,Technical services ,TS,Bida ,Annual,Male,30,,22/12/2016,NO,Niger
+81,,Baba,Aliyu,,567,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,21/01/2015,NO,Niger
+82,,Ndanusa,Mohammed,,573,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,21/01/2015,NO,Niger
+83,,Abdullahi,Suliyat,,576,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Female,,,21/01/2015,NO,Niger
+84,,Bala,Mohammed,,579,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,21/01/2015,NO,Niger
+85,,Sule,Abubakar,,570,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,21/01/2015,NO,Niger
+86,,Baba,Musa,Mohammed,54,Ad-Hoc,Technical services ,TS,Bida ,Annual,Male,,,17/04/2015,NO,Niger
+87,,Baba,Musa,Ndaman,48,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,17/04/2015,NO,Niger
+88,,Babakawu,Barje,,51,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,17/04/2015,NO,Niger
+89,,Aliyu ,Musa,,39,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,17/04/2015,NO,Niger
+90,,Aisha,Yanna,Mohammed,42,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Female,,,17/04/2015,NO,Niger
+91,,Haliru,Ishaku,,63,Ad-Hoc,Technical services ,TS,Bida ,Annual,Male,,,17/04/2015,NO,Niger
+92,,Mohammed,Kudu,Umar,45,Ad-Hoc,Commerical Service ,CS,Bida ,Annual,Male,,,17/04/2015,NO,Niger
+1,,Ezeoha ,Chijioke,,402205,Supervisor,TS,Technical service,Zuma,Annual,Male,21,10,14/02/2014,NO,Niger
+2,,Onyebueke,Nkeiruka,Melody,672259,S/C manager,CS,Customer service,Zuma,Annual,Female,30,2,05/01/2014,NO,Niger
+3,,Mohammed ,Haruna,Abdullahi,402181,Fo 1,TS,Technical service,Zuma,Annual,Male,21,21,05/04/2014,NO,Niger
+4,,kefas ,Ibrahim ,Ahmadu,200048,Office Mgr,HR,Human  Resoure,Zuma,Annual,Male,30,4,05/01/2014,NO,Niger
+5,,Busari,Adebola,Basirat,930033,Officer I,CS,Manager KPI/CS,Zuma,Annual,Female,30,15,05/01/2014,NO,Niger
+6,,Abdullahi ,Aliyu,,502400,Officer II,CS,Customer service,Zuma,Annual,Male,21,10,05/01/2014,NO,Niger
+7,,Sunday,Naomi ,Udoh,300861,Officer II,F/A,Cashier,Zuma,Maternity ,Female,112,112,24/08/2016,NO,Niger
+8,,Shettima,Malafia,Zainab,502463,Supervisor,CS,Customer service,Zuma,Annual,Female,30,35,05/01/2014,NO,Niger
+9,,Faranpojo,Christiana,Abosede,501407,Supervisor,C/C,Customer care,Zuma,Annual,Female,30,30,05/01/2014,NO,Niger
+1,,JOSEPH,AUDU,,500543,DEPUTY HEAD  (TS),TECHNICAL SERVICES,AREA MANAGER,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+2,,RAYMOND ,OBIKE,UDOCHUKWU,500531,A G TL (CS),CUSTOMER SERVICE,A G TL ,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+3,,SANI,ZAINAB, ,502226,DEPUTY MGR (CS),CUSTOMER SERVICE,CUSTOMER SERVICE ,MINNA,Annual,Female,30,,05/01/2014,No,Niger
+4,,ABDULLAHI,  IBRAHIM,GBAJIBO ,502178,DEPUTY MGR (CS),CUSTOMER SERVICE,PAIKO,MINNA,Annual,Male,30,15,05/01/2014,No,Niger
+5,,SHITTU, WAHAB, ADEOYE,200342,DEPUTY MGR (HR),HUMAN RESOURCES,AREA OFFICE,MINNA,Annual,Male,30,15,05/01/2014,No,Niger
+6,,ONAH,FESTUS,  ONUZULIKE,502208,SUPERVISOR (CS),CUSTOMER SERVICE,URBAN,MINNA,Annual,Male,30,14,05/01/2014,No,Niger
+8,,ABDULHAKEEM,SAFIYA,  ADEYEMI,300651,SUPERVISOR (F&A),FINANCE &SERVICE,MAIN OFFICE,MINNA,Annual,Female,30,15,05/01/2014,No,Niger
+9,,ABOLUWARIN,AMOS, ADEBISI ,300633,SUPERVISOR (F&A),FINANCE &SERVICE,MAIN OFFICE,MINNA,Annual,Male,30,15,05/01/2014,No,Niger
+12,,UKAEGBU,INNOCENT,CHIEMEKA,502184,SUPERVISOR (CS),CUSTOMER SERVICE,GRA,MINNA,Annual,Male,30,15,05/01/2014,No,Niger
+15,,YAHAYA,YATANGBO, ,502250,SUPERVISOR (BILLING),BILLING,MAIN OFFICE,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+16,,FAFOWORA,PETER,  TAIWO,502229,SUPERVISOR (CS),CUSTOMER SERVICE,SAUKA KAHUTA,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+17,,LAWRENCE,ABIGAIL, OMAYOZA ,402022,SUPERVISOR (TS),TECHNICAL SERVICES,MAIN OFFICE,MINNA,Annual,Female,30,15,05/01/2014,No,Niger
+18,,USMAN,MAIKUDI, BIDA ,300645,SUPERVISOR (CS),CUSTOMER SERVICE,URBAN,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+19,,MOHAMMED,AYUBA,BABA  ,502151,SUPERVISOR (CS),CUSTOMER SERVICE,MAITUMBI,MINNA,Annual,Male,30,15,05/01/2014,No,Niger
+20,,MADUBATA,CHIBUZOR,MACMILLAN,502157,SUPERVISOR (CS),CUSTOMER SERVICE,CHANCHAGA ,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+21,,AJAYI,EMMANUEL,  OJO,502166,SUPERVISOR (CS),CUSTOMER SERVICE,MAIN OFFICE,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+23,,MUSA,SARKI, ,402055,SUPERVISOR (TS),TECHNICAL SERVICES,MAIN OFFICE,MINNA,Annual,Male,30,20,05/01/2014,No,Niger
+25,,ADAMU,YAKUBU, ,401971,SUPERVISOR (TS),TECHNICAL SERVICES,MAIN OFFICE,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+27,,ABDULFATAI,FATIMAH, ALI ,300627,SUPERVISOR (F&A),FINANCE &SERVICE,MAIN OFFICE,MINNA,Annual,Female,30,15,05/01/2014,No,Niger
+31,,AKOWEI,FRANKLIN,BULOEBI,502148,FUNCTION OFFCR I (CS),CUSTOMER SERVICE,MAITUMBI,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+33,,GBARA,IDRIS, TAUHID ,300642,FUNCTION OFFCR I (F&A),FINANCE &SERVICE,MAITUMBI,MINNA,Annual,Male,30,15,05/01/2014,No,Niger
+39,,LAWAL,AHMADU,  BELLO,402019,FUNCTION OFFCR I (TS),TECHNICAL SERVICES,GRA,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+40,,WILLIAMS,NJOKU, ,502261,FUNCTION OFFCR I (CS),CUSTOMER SERVICE,CHANCHAGA ,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+42,,UMAR,ABDULLAHI,  MASU ,502238,FUNCTION OFFCR I (CS),CUSTOMER SERVICE,SAUKA KAHUTA,MINNA,Annual,Male,30,15/,05/01/2014,No,Niger
+46,,YOHANNA,SIMON,AMANGELU,502817,FUNCTION OFFCR I (CS),CUSTOMER SERVICE,MAIN OFFICE,MINNA,Annual,Male,30,15,12/08/2015,No,Niger
+48,,ILIYA ,AMBAFI, ,300858,FUNCTION OFFCR II (F&A),FINANCE &SERVICE,MAIN OFFICE,MINNA,Annual,Male,30,,09/02/2016,No,Niger
+49,,NDADZUNGI,AISHETU,,300126,FUNCTION OFFCR II (F&A),FINANCE &SERVICE,MAIN OFFICE,MINNA,Annual,Female,30,11,05/01/2014,No,Niger
+,,MOHAMMED ,AISHAT,,200339,FUNCTION OFFCR II (F&A),HUMAN RESOURCES,MAIN OFFICE,MINNA,Annual,Female,30,,05/01/2014,,Niger
+50,,ABDULLAHI,M. YAHAYA, ,401983,FUNCTION OFFCR II (F&A),TECHNICAL SERVICES,CHANCHAGA ,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+51,,MOHAMMED ,YUSUF ,DANBABA,402385,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,TUNGA,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+52,,IBRAHIM,USMAN, ,402013,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,GWADA,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+53,,HARUNA,SAMUEL, SUNDAY ,402007,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,URBAN,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+54,,ALEX ,MATHEW,,980273,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,MINNA INJ.S/S,MINNA,Annual,Male,30,,08/11/2014,No,Niger
+55,,UCHE,BENJAMIN,MELUGHA,980303,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,MINNA INJ.S/S,MINNA,Annual,Male,30,,08/01/2015,No,Niger
+56,,OMOLAOLU,JOHN,AYODELE,980081,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,MINNA INJ.S/S,MINNA,Annual,Male,30,,08/11/2014,No,Niger
+57,,ALFA,DAUDA,IDRIS,980162,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,MINNA INJ.S/S,MINNA,Annual,Male,30,,08/11/2014,No,Niger
+58,,IBRAHIM,Mohammed,JAMIU,980300,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,MAIN OFFICE,MINNA,Annual,Male,30,,08/11/2014,No,Niger
+59,,OSEMEKHIAN,ODIGIE,ABRAHAM,980261,FUNCTION OFFCR II (TS),TECHNICAL SERVICES,MINNA INJ.S/S,MINNA,Annual,Male,30,,08/01/2015,No,Niger
+60,,IBRAHIM,AHMADU, WALLO ,502181,FUNCTION OFFCR II (CS),CUSTOMER SERVICE,TUNGA,MINNA,Annual,Male,30,,05/01/2014,No,Niger
+61,,CHUKWUMA,PIUS,  NWOJA,402001,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,GRA,MINNA,Annual,Male,21,10,05/01/2014,No,Niger
+63,,DAN'AZUMI,GIMBA, ,402004,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,GWADA,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+64,,MOHAMMED,NDAGI, ,402034,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,TUNGA,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+65,,MUSA,YUNUSA,ALHAJI,402058,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,GWADA,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+68,,MOHAMMED,NURUDEEN,  GAIDI,402040,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,CHANCHAGA ,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+69,,USMAN,HAFSAT, ,200345,SUPPORT OFFCR I (BILLING),BILLING,MAIN OFFICE,MINNA,Annual,Female,21,,05/01/2014,No,Niger
+70,,ABDULLAHI,FATI, ,200333,SUPPORT OFFCR I (F&A),FINANCE &SERVICE,GRA,MINNA,Annual,Female,21,11,05/01/2014,No,Niger
+71,,USMAN,UMAR, BOLOGI ,300654,SUPPORT OFFCR I (F&A),FINANCE &SERVICE,MAIN OFFICE,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+72,,NURUDEEN,MOHAMMED, ,402037,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,MAIN OFFICE,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+75,,MOHAMMED,YAHAYA, ,110108,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,KUTA,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+76,,BULUS,LADI, ,1317,SUPPORT OFFCR I (F&A),FINANCE &SERVICE,CHANCHAGA ,MINNA,Annual,Male,21,15,12/07/2016,No,Niger
+77,,ISHAKU,ESTHER, ,300990,SUPPORT OFFCR I (F&A),FINANCE &SERVICE,SAUKA KAHUTA,MINNA,Annual,Female,21,,12/05/2016,No,Niger
+78,,MUSA,ABDULLAHI, ,502193,SUPPORT OFFCR I (CS),CUSTOMER SERVICE,SAUKA KAHUTA,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+81,,Mohammed,SHAFFI, ,402043,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,URBAN,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+83,,USMAN,GARUBA, ,502244,SUPPORT OFFCR I (TS),CUSTOMER SERVICE,MAIN OFFICE,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+84,,ALHASSAN,SANI, MOH'D ,401980,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,KUTA,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+85,,BENARD,CHRISTOPHER, ,401988,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,URBAN,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+86,,USMAN,ALIYU, ,402076,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,URBAN,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+87,,YUSUF,Mohammed,  WUSHISHI,402079,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,POWER HOUSE,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+89,,MAMMAN,HAUWA,LAFIYA,200231,SUPPORT OFFCR I (CS),CUSTOMER SERVICE,URBAN,MINNA,Annual,Female,21,,05/01/2015,No,Niger
+90,,USMAN ,BARDE,,980510,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,PAIKO,MINNA,Annual,Male,21,,29/10/2014,No,Niger
+91,,ADAMU,IDRIS,,980507,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,ERINA,MINNA,Annual,Male,21,,16/10/2015,No,Niger
+92,,USMAN,YAHAYA, ,402535,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,CHANCHAGA ,MINNA,Annual,Male,21,,23/11/2016,No,Niger
+93,,ABDULRAHMAN,IBRAHIM, ,417,SUPPORT OFFCR I (F&A),FINANCE &SERVICE,TUNGA,MINNA,Annual,Male,21,,12/05/2016,No,Niger
+94,,Mohammed,UMAR,KASIM,402601,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,URBAN,MINNA,Annual,Male,21,,23/11/2016,No,Niger
+95,,UMAR,MOHAMMED, ,402595,SUPPORT OFFCR I (TS),TECHNICAL SERVICES,URBAN,MINNA,Annual,Male,21,,12/01/2016,No,Niger
+96,,TANKO,YUSUF, ,502730,SUPPORT OFFCR I (CS),CUSTOMER SERVICE,URBAN,MINNA,Annual,Male,21,,05/01/2014,No,Niger
+97,,AMINU,MAHMUD, ,399,LINESMEN,TECHNICAL SERVICES,URBAN,MINNA,Annual,Male,21,,22/08/2016,No,Niger
+98,,ABUBAKAR,ABDULLAHI, ,390,LINESMEN,TECHNICAL SERVICES,GRA,MINNA,Annual,Male,21,,22/08/2016,No,Niger
+99,,HARUNA,YAHAYA,,396,LINESMEN,TECHNICAL SERVICES,GRA,MINNA,Annual,Male,21,,22/08/2016,No,Niger
+100,,Mohammed,SULE ,GANA,393,LINESMEN,TECHNICAL SERVICES,MAITUMBI,MINNA,Annual,Male,21,,22/08/2016,No,Niger
+101,,Mohammed,MOHAMMED, ,387,LINESMEN,TECHNICAL SERVICES,MAITUMBI,MINNA,Annual,Male,21,,22/08/2016,No,Niger
+102,,HUSSAINI,IBRAHIM, ,585,CONT.MARKETER,CUSTOMER SERVICE,URBAN,MINNA,Annual,Male,21,,16/04/2015,No,Niger
+103,,SHEHU,ABUBAKAR, ,852,CONT. MARKETER,CUSTOMER SERVICE,URBAN,MINNA,Annual,Male,21,,21/01/2015,No,Niger
+104,,DALHA,ABDULLAHI, ,861,CONT. MARKETER,CUSTOMER SERVICE,MAITUMBI,MINNA,Annual,Male,21,,21/01/2015,No,Niger
+105,,MUSA,HUSSAINI, ,849,CONT. MARKETER,CUSTOMER SERVICE,MAITUMBI,MINNA,Annual,Male,21,,21/01/2015,No,Niger
+106,,ALFA,ABDULLAHI, ,855,CONT. MARKETER,CUSTOMER SERVICE,URBAN,MINNA,Annual,Male,21,,21/01/2015,No,Niger
+107,,ADO,SULEIMAN,,402,CONT. MARKETER,CUSTOMER SERVICE,GRA,MINNA,Annual,Male,21,,16/04/2015,No,Niger
+108,,DANIEL,JOHN, ,414,CONT. MARKETER,CUSTOMER SERVICE,TUNGA,MINNA,Annual,Male,21,,16/04/2015,No,Niger
+109,,JAMILU,AUDU, ,411,CONT. MARKETER,CUSTOMER SERVICE,TUNGA,MINNA,Annual,Male,21,,16/04/2015,No,Niger
+110,,MOHAMMED,ADAMU, ,405,CONT MARKETER,CUSTOMER SERVICE,MAITUMBI,MINNA,Annual,Male,21,,16/04/2015,No,Niger
+111,,USMAN,ABDULLAHI,KOLO,1302,CONT. MARKETER,CUSTOMER SERVICE,URBAN,MINNA,Annual,Male,21,,16/06/2016,No,Niger
+112,,IBRAHIM,ALIYU, ,243,CONT. LINESMAN,CUSTOMER SERVICE,GRA,MINNA,Annual,Male,21,,15/04/2015,No,Niger
