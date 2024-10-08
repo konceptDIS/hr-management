@@ -8,6 +8,7 @@ use Illuminate\Foundation\Auth\AuthenticatesUsers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Hash;
 use App\User;
 use Session;
 use Carbon\Carbon;
@@ -120,8 +121,32 @@ class LoginController extends Controller
         return $obj;
     }
 
+    public function attemptLogin(Request $request){
+
+        $username = $request->username;
+        $password = $request->password;
+
+        $user = \App\User::where('username', $username)->first();
+
+        if($user){
+            if (Hash::check($request->password, $user->password)) {
+                $user->last_login_date = Carbon::now();
+                $user->save();
+
+                Auth::login($user);
+                // $result = $this->guard()->login($user, true);
+
+                return true;
+            } else {
+                return redirect()->back()->withInput();
+            }
+        } else {
+            return redirect()->back()->withInput();
+        }
+    }
+
     //This function uses both Sams API and Mine
-    protected function attemptLogin(Request $request)
+    protected function attemptLogin2(Request $request)
     {
         $username = $request->username;
         $password = $request->password;

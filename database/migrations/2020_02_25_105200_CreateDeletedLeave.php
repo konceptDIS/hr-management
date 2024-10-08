@@ -20,8 +20,8 @@ class CreateDeletedLeave extends Migration
                 $table->string('created_by', 50);
                 $table->string('reason', 500);
                 $table->string('applicant_username', 50);
-                $table->json('application_data')->nullable()->default(null);
-                $table->json('approval_data')->nullable()->default(null);
+                $table->text('application_data')->nullable()->default(null);
+                $table->text('approval_data')->nullable()->default(null);
                 $table->timestamps();
             });
         }   

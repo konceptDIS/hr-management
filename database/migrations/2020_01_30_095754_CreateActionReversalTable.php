@@ -21,8 +21,8 @@ class CreateActionReversalTable extends Migration
                 $table->string('created_by',50);
                 $table->string('reversed_action', 150);
                 $table->string('applicant_username', 50);
-                $table->json('application_data');
-                $table->json('approval_data');
+                $table->text('application_data');
+                $table->text('approval_data');
                 $table->timestamps();
             });
         }

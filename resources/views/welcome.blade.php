@@ -106,7 +106,7 @@ body.modal-open .modal {
                 <div class="pull-right" >
                     <img src="/images/logo.png" class="logo pull-right" />
                 </div>
-                <p class="p pull-right" style="margin-right: 20px; color:white; font-weight: bold;">Leave Management System</p>
+                <p class="p pull-right" style="margin-right: 20px; color:white; font-weight: bold;">HR Management System</p>
             </div>
             
         </div>

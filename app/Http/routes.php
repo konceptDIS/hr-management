@@ -33,14 +33,14 @@ Route::group(['middleware' => ['web']], function () {
     /*
     |   Custom auth routes
     */
-    Route::get('/sso', "SSOController@handleSSO");
-    Route::get('/logout', 'SSOController@logOut');
+    // Route::get('/sso', "SSOController@handleSSO");
+    // Route::get('/logout', 'SSOController@logOut');
 
-    // Route::get('/', "Auth\LoginController@welcome");
-    // Route::post('logout', 'Auth\LoginController@logout');
-    // Route::get('/logout', 'Auth\LoginController@logout')->name('logout');
-    // Route::post('login', "Auth\LoginController@attemptLogin")->name('login');
-    // Route::get('/login', "Auth\LoginController@welcome")->name('welcome');
+    Route::get('/', "Auth\LoginController@welcome");
+    Route::post('logout', 'Auth\LoginController@logout');
+    Route::get('/logout', 'Auth\LoginController@logout')->name('logout');
+    Route::post('login', "Auth\LoginController@attemptLogin")->name('login');
+    Route::get('/login', "Auth\LoginController@welcome")->name('welcome');
 
     /*End of Custom auth routes*/
 
